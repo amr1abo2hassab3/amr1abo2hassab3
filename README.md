@@ -5,11 +5,10 @@
 </p>
 
 <p align="center">
-- 🤝 I’m available for freelancing.
-
-- 💬 Ask me about **Reactjs & js & css **
-
-- 📫 How to reach me **amrabohassab123@gmail.com**
+<h3>- 🤝 I’m available for freelancing.</h3>
+<h3>- 💬 Ask me about **Reactjs & js & css **</h3>
+<h3>- 📫 How to reach me **amrabohassab123@gmail.com**
+</h3>
 </p>
 
 <p align="center">
