@@ -24,10 +24,10 @@
   <a href="https://www.linkedin.com/in/amr-abo-hassab-929099296" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/amr.mohammadabohassab" target="blank"><img align="center"
+  <a href="https://www.facebook.com/amr.mohammadabohassab" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
+  <a href="https://www.instagram.com/amrmohammadabo/" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
