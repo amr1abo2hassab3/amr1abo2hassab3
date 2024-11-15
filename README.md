@@ -3,13 +3,22 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
+
+<p align="center">
+- 🤝 I’m available for freelancing.
+
+- 💬 Ask me about **Reactjs & js & css **
+
+- 📫 How to reach me **amrabohassab123@gmail.com**
+</p>
+
 <p align="center">
 <img  src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300px" height="300px" alt="adam-pw" />
 </p>
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect With Me🤝</h2></summary>
   </ul>
 </div>
 
