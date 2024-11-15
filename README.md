@@ -5,9 +5,9 @@
 </p>
 
 <p  align="center">
-<h3>- 🤝 I’m available for freelancing.</h3>
-<h3>- 💬 Ask me about **Reactjs & js & css **</h3>
-<h3>- 📫 How to reach me **amrabohassab123@gmail.com**
+<h3  align="center">- 🤝 I’m available for freelancing.</h3>
+<h3  align="center">- 💬 Ask me about **Reactjs & js & css **</h3>
+<h3  align="center">- 📫 How to reach me **amrabohassab123@gmail.com**
 </h3>
 </p>
 
