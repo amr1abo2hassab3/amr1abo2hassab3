@@ -23,7 +23,7 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/amr-abo-hassab-929099296" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/amr-abo-hassab-929099296" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
